@@ -1,5 +1,5 @@
 <!-- PROJECT SHIELDS -->
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/raman-lewis-4a9635b5/]
 
 
 # Personal Projects
