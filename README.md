@@ -1,4 +1,5 @@
 # Personal Projects
+A list of ALL personal projects completed by myself.
 
 ## List of Projects
 
