@@ -1,4 +1,4 @@
-# Personal_Projects
+# Personal Projects
 
 ## List of Projects
 
