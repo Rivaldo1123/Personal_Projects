@@ -1,3 +1,7 @@
+<!-- PROJECT SHIELDS -->
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+
 # Personal Projects
 A list of ALL personal projects completed by myself.
 
